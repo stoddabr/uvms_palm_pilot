@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/TimePointStreaming_MultiPoint.dir/TimePointStreaming_MultiPoint.cpp.o -o TimePointStreaming_MultiPoint  -Wl,-rpath,/home/charisma/Documents/LeapSDK/lib/x64 /usr/lib/libUltrahaptics.so.2.6 /home/charisma/Documents/LeapSDK/lib/x64/libLeap.so -latomic 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/AmplitudeModulation_MultiDeviceHandTrackingDirectional.dir/AmplitudeModulation_MultiDeviceHandTrackingDirectional.cpp.o -o AmplitudeModulation_MultiDeviceHandTrackingDirectional  -Wl,-rpath,/home/charisma/Documents/LeapSDK/lib/x64 /usr/lib/libUltrahaptics.so.2.6 /home/charisma/Documents/LeapSDK/lib/x64/libLeap.so -latomic 
