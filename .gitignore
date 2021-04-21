@@ -6,7 +6,7 @@
 !/leap_socket/**
 !/uvms_palm_pilot/**
 !/ultrahaptics/**
-
+!readme.md
 # You can be specific with these rules
 !.gitignore
 
